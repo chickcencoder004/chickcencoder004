@@ -3,7 +3,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center"> an active student from Vietnam </h3>
 
-- ✍ I am a student of:[Hoang Van Thu High School](c3hoangvanthu.quangngai.edu.vn)(HVT)
+- ✍ learning AI
 
 - 🌱 I’m currently learning **python**
 
